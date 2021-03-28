@@ -11,6 +11,8 @@ print(
 +================================+
 """)
 
+# You can use triple quotes to print strings on multiple lines in order to make text easier to read, or create a special text-based design.
+
 guess_number = int(input("Guess the number: "))
 
 while guess_number != secret_number:
