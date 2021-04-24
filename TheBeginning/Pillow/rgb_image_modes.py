@@ -10,3 +10,4 @@ g.show()
 b.show()
 mantra.show()
 
+# Just adding information about RGB
